@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InterviewTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|d:\\interviewtest\\interviewtest\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|solutionrelative:interviewtest\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|d:\\interviewtest\\repository\\repositorywrapper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|solutionrelative:repository\\repositorywrapper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E124C3-CA45-4277-9DB6-BD0DDA125DE9}|Contract\\Contract.csproj|d:\\interviewtest\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E124C3-CA45-4277-9DB6-BD0DDA125DE9}|Contract\\Contract.csproj|solutionrelative:contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B77A8-12E8-4298-9E01-F63AC64EBCC2}|Entities\\Entities.csproj|d:\\interviewtest\\entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B77A8-12E8-4298-9E01-F63AC64EBCC2}|Entities\\Entities.csproj|solutionrelative:entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E124C3-CA45-4277-9DB6-BD0DDA125DE9}|Contract\\Contract.csproj|d:\\interviewtest\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E124C3-CA45-4277-9DB6-BD0DDA125DE9}|Contract\\Contract.csproj|solutionrelative:contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|d:\\interviewtest\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|d:\\interviewtest\\interviewtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|solutionrelative:interviewtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|d:\\interviewtest\\repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D859501-2BE4-4EBB-A011-A1C465EE4FE4}|Repository\\Repository.csproj|solutionrelative:repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|d:\\interviewtest\\interviewtest\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|solutionrelative:interviewtest\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|d:\\interviewtest\\interviewtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{029BEA01-C75C-4556-9D78-154631D78C15}|InterviewTest\\InterviewTest.csproj|solutionrelative:interviewtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Entities\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Entities\\RepositoryContext.cs",
+              "ToolTip": "D:\\InterviewTest\\Entities\\RepositoryContext.cs",
+              "RelativeToolTip": "Entities\\RepositoryContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:55:23.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Contract\\IUserRepository.cs",
+              "ToolTip": "D:\\InterviewTest\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "Contract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:22:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\InterviewTest\\UserController.cs",
+              "RelativeDocumentMoniker": "InterviewTest\\UserController.cs",
+              "ToolTip": "D:\\InterviewTest\\InterviewTest\\UserController.cs",
+              "RelativeToolTip": "InterviewTest\\UserController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:33:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\InterviewTest\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:58.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryWrapper .cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Repository\\RepositoryWrapper .cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryWrapper .cs",
+              "ToolTip": "D:\\InterviewTest\\Repository\\RepositoryWrapper .cs",
+              "RelativeToolTip": "Repository\\RepositoryWrapper .cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:03:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Contract\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryBase.cs",
+              "ToolTip": "D:\\InterviewTest\\Contract\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contract\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:49:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\InterviewTest\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewTest\\Program.cs",
+              "ToolTip": "D:\\InterviewTest\\InterviewTest\\Program.cs",
+              "RelativeToolTip": "InterviewTest\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:52:33.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\Repository\\Program.cs",
+              "RelativeDocumentMoniker": "Repository\\Program.cs",
+              "ToolTip": "D:\\InterviewTest\\Repository\\Program.cs",
+              "RelativeToolTip": "Repository\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:17.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\InterviewTest\\InterviewTest\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "InterviewTest\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\InterviewTest\\InterviewTest\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "InterviewTest\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:50:42.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\InterviewTest\\InterviewTest\\appsettings.json",
+              "RelativeDocumentMoniker": "InterviewTest\\appsettings.json",
+              "ToolTip": "D:\\InterviewTest\\InterviewTest\\appsettings.json",
+              "RelativeToolTip": "InterviewTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T06:46:30.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
